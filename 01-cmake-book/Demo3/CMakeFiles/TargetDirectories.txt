@@ -1,4 +1,0 @@
-H:/WeiMuYang/04-CMake/01-cmake-book/Demo3/CMakeFiles/Demo.dir
-H:/WeiMuYang/04-CMake/01-cmake-book/Demo3/CMakeFiles/ALL_BUILD.dir
-H:/WeiMuYang/04-CMake/01-cmake-book/Demo3/CMakeFiles/ZERO_CHECK.dir
-H:/WeiMuYang/04-CMake/01-cmake-book/Demo3/math/CMakeFiles/MathFunctions.dir
