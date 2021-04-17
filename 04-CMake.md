@@ -3,7 +3,7 @@
 ### [cmake资料整理](./01-cmake-study)  [img](./02-cmake-study/img)  [代码](./02-code)  
 
 1. 以cmake入门实践为主  
-2. 配合代码进行练习  
+2. 配合代码进行练习   
 
 ## [cmake学习](./00-cmake-book)   
 ### cmake入门实践   
