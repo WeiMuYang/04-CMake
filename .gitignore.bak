@@ -2,7 +2,6 @@
 # 一些目录
 # Prerequisites
 *.d
-*/*build*/*
 # Compiled Object files
 *.slo
 *.lo

@@ -8,7 +8,7 @@
 ## [cmake学习](./00-cmake-book)   
 ### cmake入门实践   
 - [cmake入门实践-book](https://www.hahack.com/codes/cmake/)     
-- [cmake入门实践-src](./00-cmake-book/01-cmake入门实践/)  
+- [cmake入门实践-src](./00-book/01-cmake入门实践/)  
 
 ### cmake实践  
-- [cmake实践-book](./00-cmake-book/02-cmake实践/01-cmake实践.pdf)   
+- [cmake实践-book](./00-book/02-cmake实践/01-cmake实践.pdf)   
